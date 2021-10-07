@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369655935216",
+    "project_id": "notifikasi-b04d8",
+    "storage_bucket": "notifikasi-b04d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369655935216:android:b27203abf88f2c6bc05235",
+        "android_client_info": {
+          "package_name": "com.notifikasi.push_notifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369655935216-fjr0etc06qsftnagu397sjr413g0v77r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUYdfiWn6CtD39vFcEgJD38QHDlCjDv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369655935216-fjr0etc06qsftnagu397sjr413g0v77r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
